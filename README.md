@@ -51,9 +51,17 @@ Users personalize their anonymous identity using $anon:
 
 ---
 
-### 5. Reputation & Leaderboard System *(Coming Soon)*
+### 5. Karma Reputation & Leaderboard System
 A gamified system to reward valuable anonymous contributions and encourage healthy community behavior.
 
+- ✨ **Karma Score** is based on the amount of anonymous messages a user sends vs. how many are flagged inappropriate by moderation.
+- ⚖️ The more appropriate, constructive messages you send, the higher your score.
+- 📊 **Formula:** `((Total Anonymous Messages - Total Flagged Messages) / Total Anonymous Messages) * 100`
+- 🔎 Use `/rank` to privately check your own karma score.
+- 🏆 Use `/leaderboard` to view the Top 10 users by karma.
+- 🧑‍🎓 If you've set a custom anonymous name, it will show on the leaderboard. Otherwise, *Anonymous* is displayed. **No real Discord usernames or IDs are shown.**
+
+![Karma System Picture](https://github.com/vmpyre/Project-V/blob/main/anon-chat/anon-chat-5.png)
 ---
 
 ### 6. NFT/Token Gated Access
@@ -82,8 +90,4 @@ Anon Chat includes built-in **AI moderation** to detect and block:
 ---
 
 ## Get Anon Chat on Your Server
-Head to **🤖┃get-on-server** in our Discord and integrate Anon Chat into your community. Empower your users with **anonymous voice and choice**.
-
----
-
-*Made with anonymity & love by the Anon Ghibli team.*
+Head to **🤖❓┃get-on-server** in our Discord
