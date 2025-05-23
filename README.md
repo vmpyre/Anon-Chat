@@ -35,7 +35,7 @@ Anon Chat includes built-in **AI moderation** to detect and block:
 
 ### 1. Anonymous Public Chatting
 Users can send messages in a designated channel **completely anonymously**, with an optional pseudonym and custom profile image.
-
+Just right click and message and click on Apps and start chatting anonymously.
 ![Anonymous Chat Feature](https://github.com/vmpyre/Project-V/blob/main/anon-chat/anon-chat-1.png)
 
 ---
@@ -87,7 +87,7 @@ Empower decentralized, anonymous governance:
 
 ### 6. Role Gated Access
 Only users with specific Roles can access anonymous chatting — maintaining exclusivity and protecting your community space.
-
+- `/access-role` command is used to add, remove & view access roles.
 ![Anonymous Role Gated Access](https://github.com/vmpyre/Project-V/blob/main/anon-chat/anon-chat-7.png)
 ---
 
