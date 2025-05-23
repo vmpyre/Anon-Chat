@@ -29,12 +29,17 @@ Send and receive **private** anonymous messages:
 
 ---
 
-### 3. Anonymous DAO Voting
-Empower decentralized, anonymous governance:
-- `/create-vote` – Admins initiate anonymous voting.
-- Votes show title, description, duration, and interactive buttons.
+### 3. Karma Reputation & Leaderboard System
+A gamified system to reward valuable anonymous contributions and encourage healthy community behavior.
 
-![Anonymous DAO Voting Feature](https://github.com/vmpyre/Project-V/blob/main/anon-chat/anon-chat-4.png)
+- ✨ **Karma Score** is based on the amount of anonymous messages a user sends vs. how many are flagged inappropriate by moderation.
+- ⚖️ The more appropriate, constructive messages you send, the higher your score.
+- 📊 **Formula:** `((Total Anonymous Messages - Total Flagged Messages) / Total Anonymous Messages) * 100`
+- 🔎 Use `/rank` to privately check your own karma score.
+- 🏆 Use `/leaderboard` to view the Top 10 users by karma.
+- 🧑‍🎓 If you've set a custom anonymous name, it will show on the leaderboard. Otherwise, *Anonymous* is displayed. **No real Discord usernames or IDs are shown.**
+
+![Karma System Picture](https://github.com/vmpyre/Project-V/blob/main/anon-chat/anon-chat-5.png)
 
 ---
 
@@ -51,21 +56,17 @@ Users personalize their anonymous identity using $anon:
 
 ---
 
-### 5. Karma Reputation & Leaderboard System
-A gamified system to reward valuable anonymous contributions and encourage healthy community behavior.
+### 5. Anonymous DAO Voting
+Empower decentralized, anonymous governance:
+- `/create-vote` – Admins initiate anonymous voting.
+- Votes show title, description, duration, and interactive buttons.
 
-- ✨ **Karma Score** is based on the amount of anonymous messages a user sends vs. how many are flagged inappropriate by moderation.
-- ⚖️ The more appropriate, constructive messages you send, the higher your score.
-- 📊 **Formula:** `((Total Anonymous Messages - Total Flagged Messages) / Total Anonymous Messages) * 100`
-- 🔎 Use `/rank` to privately check your own karma score.
-- 🏆 Use `/leaderboard` to view the Top 10 users by karma.
-- 🧑‍🎓 If you've set a custom anonymous name, it will show on the leaderboard. Otherwise, *Anonymous* is displayed. **No real Discord usernames or IDs are shown.**
+![Anonymous DAO Voting Feature](https://github.com/vmpyre/Project-V/blob/main/anon-chat/anon-chat-4.png)
 
-![Karma System Picture](https://github.com/vmpyre/Project-V/blob/main/anon-chat/anon-chat-5.png)
 ---
 
-### 6. NFT/Token Gated Access
-Only users with specific **NFTs or tokens** can access anonymous features — maintaining exclusivity and protecting your community space.
+### 6. Role Gated Access
+Only users with specific Roles can access anonymous chatting — maintaining exclusivity and protecting your community space.
 
 ---
 
