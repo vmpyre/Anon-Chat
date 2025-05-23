@@ -88,6 +88,7 @@ Empower decentralized, anonymous governance:
 ### 6. Role Gated Access
 Only users with specific Roles can access anonymous chatting — maintaining exclusivity and protecting your community space.
 
+![Anonymous Role Gated Access](https://github.com/vmpyre/Project-V/blob/main/anon-chat/anon-chat-7.png)
 ---
 
 ## Get Anon Chat on Your Server
