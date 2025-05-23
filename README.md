@@ -11,6 +11,26 @@
 
 ---
 
+## Why Anon Chat Matters
+In many Web3 communities, people hesitate to:
+- Share critical feedback
+- Offer controversial ideas
+- Speak openly due to identity-based pressure
+
+**Anon Chat removes this fear**, allowing users to share openly and honestly — leading to better engagement, feedback, and governance.
+
+---
+
+## 🛡️ Abuse & Moderation
+Anon Chat includes built-in **AI moderation** to detect and block:
+- Hate speech
+- Threats or incitement
+- Harmful content
+
+> **We support free speech — not abuse.**
+
+---
+
 ## 🧩 Features
 
 ### 1. Anonymous Public Chatting
@@ -70,25 +90,5 @@ Only users with specific Roles can access anonymous chatting — maintaining exc
 
 ---
 
-## Why Anon Chat Matters
-In many Web3 communities, people hesitate to:
-- Share critical feedback
-- Offer controversial ideas
-- Speak openly due to identity-based pressure
-
-**Anon Chat removes this fear**, allowing users to share openly and honestly — leading to better engagement, feedback, and governance.
-
----
-
-## 🛡️ Abuse & Moderation
-Anon Chat includes built-in **AI moderation** to detect and block:
-- Hate speech
-- Threats or incitement
-- Harmful content
-
-> **We support free speech — not abuse.**
-
----
-
 ## Get Anon Chat on Your Server
-Head to **🤖❓┃get-on-server** in our Discord
+Head to https://steakers.xyz/discord server and get it enabled.
