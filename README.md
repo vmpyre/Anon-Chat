@@ -1,5 +1,5 @@
 # 🕵️‍♂️ Anon Chat Documentation
-> Built by the Anon Ghibli Project
+> Vibe coded by Steakers
 
 ## What is Anon Chat?
 **Anon Chat** is the first-of-its-kind anonymous messaging system built specifically for Discord communities. It enables **NFT holders and users** to engage in **public, private, and governance conversations** without revealing their identity — empowering open dialogue while protecting individual expression.
